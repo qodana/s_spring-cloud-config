@@ -1,0 +1,14 @@
+{
+  "name": "spring-cloud-config",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "remoteUser": "root",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "vscjava.vscode-java-pack"
+      ]
+    }
+  }
+}
